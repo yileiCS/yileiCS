@@ -2,4 +2,7 @@
 ## Hi！
 [LINKEDIN]( https://www.linkedin.com/in/yilei-xiao-ucl-bartlett/)  &nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;    [PORTFOLIO](https://yileics.github.io/portfolio/)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yileics)](https://github.com/yileics/github-readme-stats)
+---
+<a href="https://github.com/yileics/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yileics&layout=compact&langs_count=8&card_width=320" />
+</a>
